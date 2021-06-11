@@ -1,5 +1,5 @@
 # fitpact
 
-A health Flutter application.
+A health Flutter android application.
 
 # 🚧 ..Project under construction 🏗
